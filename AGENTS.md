@@ -110,3 +110,4 @@ When modifying provider behavior:
 - Do not submit a PR whose description still contains template placeholder text; fill in every section of the [PR template](.github/pull_request_template.md) for the actual change.
 - Do not surface-patch recurring review findings; repeated fix requests usually indicate a core design issue — investigate and fix the root cause instead of the reported symptom.
 - Do not add a manually maintained release-notes data source to the static site; link to GitHub Releases instead.
+docker pull ghcr.io/twigpine/openclaude:0.34
